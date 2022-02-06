@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=joetifa2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joetifa2003&theme=tokyonight&hide_border=false)<br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
