@@ -44,16 +44,16 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Java                     11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-java                     11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
