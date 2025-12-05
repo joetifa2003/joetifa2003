@@ -13,7 +13,7 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C930%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C929%20hrs%201%20min-blue)
 
 **I'm a Night 🦉** 
 
