@@ -13,7 +13,54 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C478%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C482%20hrs%2034%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌃 Evening                1315 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
+🌙 Night                  885 commits         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Tuesday                  292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Wednesday                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Sunday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+TypeScript               20 hrs 5 mins       ████████████████░░░░░░░░░   63.46 % 
+Go                       2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Markdown                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+
+🔥 Editors: 
+Neovim                   31 hrs 40 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cyza-dev                 24 hrs 50 mins      ████████████████████░░░░░   78.42 % 
+goc                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Unknown Project          1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+cyza-assets              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+sh_su                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+
+💻 Operating System: 
+Linux                    31 hrs 40 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
