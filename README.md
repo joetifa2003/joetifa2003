@@ -18,21 +18,21 @@ Check out my [website](https://youssefahmed.vercel.app)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌞 Morning                253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-🌃 Evening                1315 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
-🌙 Night                  885 commits         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌃 Evening                1315 commits        ███████████░░░░░░░░░░░░░░   44.41 % 
+🌙 Night                  885 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Tuesday                  292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Tuesday                  293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 Wednesday                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Thursday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Sunday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Sunday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 ```
 
 
