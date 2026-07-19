@@ -13,64 +13,16 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C841%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C848%20hrs%2032%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
-🌙 Night                  885 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-```
-📅 **I'm Most Productive on Sunday** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Wednesday                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Python                   19 hrs 26 mins      ██████████████░░░░░░░░░░░   54.67 % 
-Other                    4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-sh                       2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Go                       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-
-🔥 Editors: 
-Opencode Cli             20 hrs 39 mins      ███████████████░░░░░░░░░░   58.10 % 
-Neovim                   14 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
-
-🐱‍💻 Projects: 
-goc                      26 hrs 36 mins      ███████████████████░░░░░░   74.81 % 
-feat-ai-stuff            5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Unknown Project          2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-docs                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-cyza-assets              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-
-💻 Operating System: 
-Linux                    35 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       29 repos            ████████░░░░░░░░░░░░░░░░░   30.53 % 
-TypeScript               29 repos            ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TypeScript               29 repos            ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
