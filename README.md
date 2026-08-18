@@ -13,28 +13,28 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C873%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C880%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
-🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌞 Morning                256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
+🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Tuesday                  295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 Wednesday                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 ```
 
 
@@ -44,49 +44,49 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               17 hrs 32 mins      ██████████████░░░░░░░░░░░   55.95 % 
-sh                       4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-JSON                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-SQL                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               18 hrs 59 mins      ██████████████░░░░░░░░░░░   55.02 % 
+JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+sh                       2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🔥 Editors: 
-Opencode Cli             16 hrs 16 mins      █████████████░░░░░░░░░░░░   51.93 % 
-Neovim                   15 hrs 4 mins       ████████████░░░░░░░░░░░░░   48.07 % 
+Opencode Cli             18 hrs 56 mins      ██████████████░░░░░░░░░░░   54.90 % 
+Neovim                   15 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.10 % 
 
 🐱‍💻 Projects: 
-cyza-dev                 27 hrs 42 mins      ██████████████████████░░░   88.37 % 
-goc                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-feat-ai-stuff            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-cyza-assets              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+cyza-dev                 30 hrs 24 mins      ██████████████████████░░░   88.12 % 
+goc                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+feat-ai-stuff            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Unknown Project          31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+cyza-assets              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    31 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 1 min (86.18%)
+⏱ AI Coding Time: 30 hrs 31 mins (88.46%)
 
-✍️ 16,659 lines written by AI, 1,820 lines written by hand (90.15% AI-written)
+✍️ 19,329 lines written by AI, 1,947 lines written by hand (90.85% AI-written)
 
-🔤 342,988,934 Input Tokens, 3,097,955 Output Tokens
+🔤 356,535,929 Input Tokens, 3,459,423 Output Tokens
 
-💵 $1258.31 Estimated AI Cost This Week
+💵 $1337.78 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 231 AI Prompts
+🧠 85 AI Sessions, 270 AI Prompts
 
-GPT                      17,611 lines        █████████████████████░░░░   83.41 % 
-Deepseek                 3,502 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+GPT                      20,292 lines        █████████████████████░░░░   84.44 % 
+Deepseek                 3,738 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.15% of written lines came from AI
-📄 Detailed Prompter — average 672 characters per prompt
+🤖 AI-Driven — 90.85% of written lines came from AI
+📄 Detailed Prompter — average 733 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.09% of changed lines were hand-edited
+🚀 High AI Trust — 7.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
