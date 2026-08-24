@@ -45,8 +45,8 @@ Sunday                   527 commits         ████░░░░░░░�
 
 💬 Programming Languages: 
 TypeScript               22 hrs 30 mins      ███████████████░░░░░░░░░░   60.19 % 
-JSON                     4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Go                       2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JSON                     4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Go                       2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 JavaScript               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
@@ -55,8 +55,8 @@ Neovim                   29 hrs 15 mins      ███████████�
 Opencode Cli             8 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
 
 🐱‍💻 Projects: 
-cyza-dev                 32 hrs              █████████████████████░░░░   85.59 % 
-Unknown Project          3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+cyza-dev                 32 hrs              █████████████████████░░░░   85.58 % 
+Unknown Project          3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 cyza-assets              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 fixes-trello-aug-21      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 goc                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
@@ -68,7 +68,7 @@ Linux                    37 hrs 24 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 46 mins (79.59%)
+⏱ AI Coding Time: 29 hrs 46 mins (79.58%)
 
 ✍️ 10,884 lines written by AI, 13,164 lines written by hand (45.26% AI-written)
 
