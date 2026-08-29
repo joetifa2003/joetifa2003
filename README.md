@@ -13,9 +13,9 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C942%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C947%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-426%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,51 +44,50 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               21 hrs 31 mins      ████████████░░░░░░░░░░░░░   49.18 % 
-Go                       6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-YAML                     3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Other                    3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-JSON                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+TypeScript               19 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.47 % 
+Go                       6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+JSON                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+YAML                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Other                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 🔥 Editors: 
-Neovim                   33 hrs 55 mins      ███████████████████░░░░░░   77.50 % 
-Opencode Cli             9 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Neovim                   27 hrs 37 mins      █████████████████░░░░░░░░   67.98 % 
+Opencode Cli             13 hrs              ████████░░░░░░░░░░░░░░░░░   32.02 % 
 
 🐱‍💻 Projects: 
-cyza-dev                 22 hrs 41 mins      █████████████░░░░░░░░░░░░   51.84 % 
-cyza-assets              9 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-goc                      5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Unknown Project          3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-cyza                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+cyza-dev                 19 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.55 % 
+cyza-assets              10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+goc                      5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+cyza                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Unknown Project          1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Linux                    43 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 26 mins (74.11%)
+⏱ AI Coding Time: 30 hrs 26 mins (74.9%)
 
-✍️ 8,461 lines written by AI, 9,423 lines written by hand (47.31% AI-written)
+✍️ 6,124 lines written by AI, 9,652 lines written by hand (38.82% AI-written)
 
-🔤 221,705,751 Input Tokens, 2,512,970 Output Tokens
+🔤 155,352,733 Input Tokens, 2,253,452 Output Tokens
 
-💵 $785.93 Estimated AI Cost This Week
+💵 $599.03 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 344 AI Prompts
+🧠 87 AI Sessions, 307 AI Prompts
 
-GPT                      5,996 lines         ███████████████░░░░░░░░░░   61.83 % 
-Deepseek                 2,297 lines         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-K                        1,229 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Glm                      176 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+GPT                      6,550 lines         ██████████████████████░░░   89.78 % 
+Deepseek                 570 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Glm                      176 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.31% of written lines came from AI
-📄 Detailed Prompter — average 1,410 characters per prompt
+⚖️ Balanced with AI — 38.82% of written lines came from AI
+📄 Detailed Prompter — average 1,489 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 49.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 57.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
