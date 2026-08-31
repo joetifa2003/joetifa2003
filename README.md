@@ -44,50 +44,50 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               19 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.70 % 
-Go                       6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-JSON                     4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-YAML                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+TypeScript               17 hrs 31 mins      ███████████░░░░░░░░░░░░░░   45.44 % 
+Go                       6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+JSON                     4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Other                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+YAML                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🔥 Editors: 
-Neovim                   28 hrs 23 mins      █████████████████░░░░░░░░   67.49 % 
-Opencode Cli             13 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Neovim                   25 hrs 53 mins      █████████████████░░░░░░░░   67.10 % 
+Opencode Cli             12 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
 
 🐱‍💻 Projects: 
-cyza-dev                 19 hrs 52 mins      ████████████░░░░░░░░░░░░░   47.25 % 
-cyza-assets              10 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-goc                      6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-cyza                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Unknown Project          2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+cyza-dev                 16 hrs 45 mins      ███████████░░░░░░░░░░░░░░   43.45 % 
+cyza-assets              10 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+goc                      6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+cyza                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Unknown Project          1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Linux                    42 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    38 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 25 mins (74.69%)
+⏱ AI Coding Time: 28 hrs 28 mins (73.82%)
 
-✍️ 6,184 lines written by AI, 9,694 lines written by hand (38.95% AI-written)
+✍️ 5,961 lines written by AI, 9,672 lines written by hand (38.13% AI-written)
 
-🔤 156,042,504 Input Tokens, 2,273,708 Output Tokens
+🔤 118,580,423 Input Tokens, 1,935,219 Output Tokens
 
-💵 $604.21 Estimated AI Cost This Week
+💵 $478.53 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 320 AI Prompts
+🧠 80 AI Sessions, 291 AI Prompts
 
-GPT                      6,600 lines         ██████████████████████░░░   89.72 % 
-Deepseek                 570 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Glm                      186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+GPT                      6,368 lines         ████████████████████████░   94.16 % 
+Deepseek                 209 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Glm                      186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.95% of written lines came from AI
-📄 Detailed Prompter — average 1,488 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 57.08% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.13% of written lines came from AI
+📚 Verbose Prompter — average 1,588 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 59.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
