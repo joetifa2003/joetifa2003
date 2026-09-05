@@ -17,6 +17,80 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-452%20hrs%2048%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌆 Daytime                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.37 % 
+🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Tuesday                  297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Wednesday                408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Saturday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+TypeScript               11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Go                       11 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Markdown                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+
+🔥 Editors: 
+Neovim                   30 hrs 8 mins       █████████████████████░░░░   85.33 % 
+Opencode Cli             5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+
+🐱‍💻 Projects: 
+goc                      11 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.36 % 
+cyza-dev                 9 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+cyza-assets              8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+offers-contract-create   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+cyza                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+
+💻 Operating System: 
+Linux                    35 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 hrs 41 mins (92.54%)
+
+✍️ 12,958 lines written by AI, 612 lines written by hand (95.49% AI-written)
+
+🔤 782,341,224 Input Tokens, 3,168,815 Output Tokens
+
+💵 $2417.25 Estimated AI Cost This Week
+
+🧠 70 AI Sessions, 274 AI Prompts
+
+Glm                      13,032 lines        ████████████████████████░   94.81 % 
+GPT                      648 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Gemini                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.49% of written lines came from AI
+📄 Detailed Prompter — average 1,025 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
