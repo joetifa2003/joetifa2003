@@ -20,19 +20,19 @@ Check out my [website](https://youssefahmed.vercel.app)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-🌆 Daytime                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.31 % 
-🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌞 Morning                264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+🌆 Daytime                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.29 % 
+🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Tuesday                  297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Tuesday                  298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Thursday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Saturday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
@@ -44,48 +44,48 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       18 hrs 13 mins      █████████████░░░░░░░░░░░░   52.19 % 
-YAML                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Other                    3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-TypeScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-SQL                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Go                       14 hrs 14 mins      ██████████████░░░░░░░░░░░   54.41 % 
+YAML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+SQL                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Neovim                   34 hrs 54 mins      █████████████████████████   100.00 % 
+Neovim                   26 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-goc                      22 hrs 1 min        ████████████████░░░░░░░░░   63.08 % 
-cyza-dev                 5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-offers-contract-create   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-cyza-assets              2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+goc                      17 hrs 31 mins      █████████████████░░░░░░░░   66.94 % 
+cyza-dev                 5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+offers-contract-create   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+cyza-assets              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Linux                    34 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 24 mins (87.09%)
+⏱ AI Coding Time: 21 hrs 45 mins (83.12%)
 
-✍️ 3,534 lines written by AI, 403 lines written by hand (89.76% AI-written)
+✍️ 2,782 lines written by AI, 482 lines written by hand (85.23% AI-written)
 
-🔤 62,747,999 Input Tokens, 5,285,434 Output Tokens
+🔤 26,278,517 Input Tokens, 4,351,197 Output Tokens
 
-💵 $4513.86 Estimated AI Cost This Week
+💵 $3413.87 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 205 AI Prompts
+🧠 22 AI Sessions, 153 AI Prompts
 
-Deepseek                 3,041 lines         ███████████████████░░░░░░   76.58 % 
-Glm                      903 lines           ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Opencode-Cli             27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Deepseek                 2,959 lines         ████████████████████████░   94.75 % 
+Glm                      164 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.76% of written lines came from AI
-📚 Verbose Prompter — average 3,465 characters per prompt
+🤖 AI-Driven — 85.23% of written lines came from AI
+📚 Verbose Prompter — average 4,579 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.8% of changed lines were hand-edited
+🚀 High AI Trust — 17.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
