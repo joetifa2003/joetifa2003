@@ -13,7 +13,7 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C072%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C074%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%207%20mins-blue?style=flat)
 
@@ -44,58 +44,57 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       14 hrs 14 mins      ██████████████░░░░░░░░░░░   54.41 % 
-YAML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-SQL                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Go                       8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
+YAML                     3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+SQL                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-Neovim                   26 hrs 10 mins      █████████████████████████   100.00 % 
+Neovim                   20 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-goc                      17 hrs 31 mins      █████████████████░░░░░░░░   66.94 % 
-cyza-dev                 5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-offers-contract-create   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-cyza-assets              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+goc                      12 hrs 8 mins       ██████████████░░░░░░░░░░░   57.98 % 
+cyza-dev                 5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+offers-contract-create   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+dotfiles                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Linux                    26 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 45 mins (83.12%)
+⏱ AI Coding Time: 15 hrs 21 mins (73.27%)
 
-✍️ 2,782 lines written by AI, 482 lines written by hand (85.23% AI-written)
+✍️ 1,842 lines written by AI, 304 lines written by hand (85.83% AI-written)
 
-🔤 26,278,517 Input Tokens, 4,351,197 Output Tokens
+🔤 12,228,589 Input Tokens, 3,039,010 Output Tokens
 
-💵 $3413.87 Estimated AI Cost This Week
+💵 $2627.11 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 153 AI Prompts
+🧠 16 AI Sessions, 105 AI Prompts
 
-Deepseek                 2,959 lines         ████████████████████████░   94.75 % 
-Glm                      164 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Deepseek                 1,882 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.23% of written lines came from AI
-📚 Verbose Prompter — average 4,579 characters per prompt
+🤖 AI-Driven — 85.83% of written lines came from AI
+📚 Verbose Prompter — average 4,730 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 17.49% of changed lines were hand-edited
+🚀 High AI Trust — 20.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 
