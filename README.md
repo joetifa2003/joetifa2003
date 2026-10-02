@@ -13,79 +13,9 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C075%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C075%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%207%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-🌆 Daytime                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.32 % 
-🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Tuesday                  296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Thursday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Go                       5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
-YAML                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-JSON                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-TOML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-
-🔥 Editors: 
-Neovim                   15 hrs 6 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-goc                      7 hrs 47 mins       █████████████░░░░░░░░░░░░   51.55 % 
-cyza-dev                 4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Unknown Project          1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-offers-contract-create   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-dotfiles                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-
-💻 Operating System: 
-Linux                    15 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 30 mins (56.33%)
-
-✍️ 773 lines written by AI, 294 lines written by hand (72.45% AI-written)
-
-🔤 7,182,758 Input Tokens, 1,865,402 Output Tokens
-
-💵 $1381.39 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 62 AI Prompts
-
-Deepseek                 808 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 72.45% of written lines came from AI
-📚 Verbose Prompter — average 4,387 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 43.06% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%208%20mins-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
