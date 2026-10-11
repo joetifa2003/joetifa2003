@@ -13,7 +13,7 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C087%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C088%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-552%20hrs%2024%20mins-blue?style=flat)
 
@@ -44,32 +44,32 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-YAML                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Go                       3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Lua                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   12 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.15 % 
-cyza-dev                 2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-goc                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-nvm                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-cyza-assets              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Unknown Project          5 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.79 % 
+cyza-dev                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+goc                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+dotfiles                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+nvm                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Linux                    11 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (8.67%)
+⏱ AI Coding Time: 57 mins (7.71%)
 
-✍️ 0 lines written by AI, 1,043 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,045 lines written by hand (0.0% AI-written)
 
 🔤 88,023 Input Tokens, 73,005 Output Tokens
 
