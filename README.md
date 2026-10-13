@@ -13,7 +13,7 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C088%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C090%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-552%20hrs%2024%20mins-blue?style=flat)
 
@@ -44,44 +44,44 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Lua                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Go                       3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Markdown                 2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+JSON                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+SQL                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   13 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.79 % 
-cyza-dev                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-goc                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-dotfiles                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-nvm                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Unknown Project          6 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.18 % 
+cyza-dev                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+goc                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+dotfiles                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+nvm                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Linux                    12 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (7.71%)
+⏱ AI Coding Time: 50 mins (6.17%)
 
-✍️ 0 lines written by AI, 1,045 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,187 lines written by hand (0.0% AI-written)
 
-🔤 88,023 Input Tokens, 73,005 Output Tokens
+🔤 45,006 Input Tokens, 55,074 Output Tokens
 
-💵 $5.37 Estimated AI Cost This Week
+💵 $2.52 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 8 AI Prompts
+🧠 6 AI Sessions, 7 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
+📝 Concise Prompter — average 43 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
