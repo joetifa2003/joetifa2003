@@ -44,32 +44,32 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-JSON                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Go                       2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+TypeScript               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Lua                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 55 mins      █████████████████████████   100.00 % 
+Neovim                   9 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.31 % 
-cyza-dev                 2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-goc                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-dotfiles                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-cyza-assets              58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Unknown Project          4 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.79 % 
+cyza-dev                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+dotfiles                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+nvm                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+cyza-assets              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Linux                    12 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (6.48%)
+⏱ AI Coding Time: 50 mins (9.15%)
 
-✍️ 0 lines written by AI, 1,144 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 922 lines written by hand (0.0% AI-written)
 
 🔤 45,006 Input Tokens, 55,074 Output Tokens
 
