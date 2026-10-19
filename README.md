@@ -44,24 +44,23 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-TypeScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Lua                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Go                       1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+TypeScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
-cyza-dev                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-dotfiles                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-cyza-assets              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-goc                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Unknown Project          2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.70 % 
+cyza-dev                 1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   35.31 % 
+cyza-assets              40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+goc                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
