@@ -13,28 +13,28 @@ Check out my [website](https://youssefahmed.vercel.app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetifa2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C103%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C104%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-552%20hrs%2024%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-🌆 Daytime                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.20 % 
-🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+🌞 Morning                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+🌆 Daytime                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌃 Evening                1319 commits        ███████████░░░░░░░░░░░░░░   44.31 % 
+🌙 Night                  886 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Thursday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Thursday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Sunday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
 
 
@@ -44,24 +44,24 @@ Sunday                   527 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-JSON                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-TypeScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Lua                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Markdown                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+JSON                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Go                       1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Lua                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 20 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-cyza-dev                 1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-goc                      1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-dotfiles                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-cyza-assets              51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Unknown Project          2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
+cyza-dev                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+dotfiles                 1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+goc                      1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+cyza-assets              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 💻 Operating System: 
-Linux                    5 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
